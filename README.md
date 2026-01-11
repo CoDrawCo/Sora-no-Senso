@@ -8,4 +8,4 @@ Tu peux:
     -nous poser des questions
     -envoyer des messgages à tes amis via un système d'IP
 
-Pour créer un compte, même pas besoin d'adresse e-mail, un nom d'utilisateur et un mot de passe et c réglé
+Pour créer un compte, même pas besoin d'adresse e-mail, un nom d'utilisateur et un mot de passe et c'est réglé!
